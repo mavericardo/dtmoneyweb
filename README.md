@@ -20,12 +20,6 @@ This applications is an personal finance manager.
   <img src="./src/assets/screen1.png" alt="02 Dtmoney" />
 </div>
 
-## Features
-
-- Table with personal finance data with name, amount, category and date.
-- Summary cards with incomes, outcomes and total.
-- Button that Create a new transaction using a beautiful modal.
-
 ## Technologies
 
 The following tools were used in this project:
